@@ -1,0 +1,93 @@
+{
+   "playlists": [
+      {
+         "name": "Blue",
+         "description": "a blue dream within a dream",
+         "tracks": [
+            {
+               "name": "And We Knew It Was Our Time",
+               "artist": "Lane 8, Massane",
+               "album": "Cross Pollination"
+            },
+            {
+               "name": "An Analog Guy in a Digital World",
+               "artist": "Martin Roth",
+               "album": "An Analog Guy in a Digital World"
+            },
+            {
+               "name": "Lightning Over Heaven",
+               "artist": "Amelie Lens, Anyma",
+               "album": "Lightning Over Heaven"
+            }
+
+         ],
+         "created_at": ""
+      },
+      {
+         "name": "White",
+         "description": "the white, the whole white, and nothing but the white",
+         "tracks": [
+            {
+               "name": "Parachute",
+               "artist": "Paul Kalkbrenner",
+               "album": "Self"
+            },
+            {
+               "name": "Eating Glue",
+               "artist": "Paranoid London, Mutado Pintado",
+               "album": "Paranoid London"
+            },
+            {
+               "name": "Verlust",
+               "artist": "Computer Data",
+               "album": "Verlust"
+            }
+         ],
+         "created_at": ""
+      },
+       {
+         "name": "Green",
+         "description": "Greening out, and over",
+         "tracks": [
+            {
+               "name": "Parachute",
+               "artist": "Paul Kalkbrenner",
+               "album": "Self"
+            },
+            {
+               "name": "Eating Glue",
+               "artist": "Paranoid London, Mutado Pintado",
+               "album": "Paranoid London"
+            },
+            {
+               "name": "Verlust",
+               "artist": "Computer Data",
+               "album": "Verlust"
+            }
+         ],
+         "created_at": ""
+        },
+         {
+         "name": "Black",
+         "description": "Black on Black on Black on Black",
+         "tracks": [
+            {
+               "name": "Krunk",
+               "artist": "Sad Night Dynamite",
+               "album": "Sad Night Dynamite"
+            },
+            {
+               "name": "4 Floors of Whores",
+               "artist": "Tzusing",
+               "album": "A Name out of Place Pt. II"
+            },
+            {
+               "name": "Drum Drum",
+               "artist": "Jordon Alexander",
+               "album": "Ohana"
+            }
+         ],
+         "created_at": ""
+        }
+   ]
+}
