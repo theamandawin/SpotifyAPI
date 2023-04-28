@@ -7,17 +7,20 @@
             {
                "name": "And We Knew It Was Our Time",
                "artist": "Lane 8, Massane",
-               "album": "Cross Pollination"
+               "album": "Cross Pollination",
+               "url": "https://open.spotify.com/track/2tIv3DITNBTTayAM6Rewqi?si=77a239f683994b56"
             },
             {
                "name": "An Analog Guy in a Digital World",
                "artist": "Martin Roth",
-               "album": "An Analog Guy in a Digital World"
+               "album": "An Analog Guy in a Digital World",
+               "url": "https://open.spotify.com/track/1CNvWuZSW8wiTmz6H011xU?si=72f37e22ba5041ab"
             },
             {
                "name": "Lightning Over Heaven",
                "artist": "Amelie Lens, Anyma",
-               "album": "Lightning Over Heaven"
+               "album": "Lightning Over Heaven",
+               "url": "https://open.spotify.com/track/0S0zgiheqNBkRjEMo7pnig?si=cb7926ebaabe4e65"
             }
 
          ],
@@ -30,17 +33,21 @@
             {
                "name": "Parachute",
                "artist": "Paul Kalkbrenner",
-               "album": "Self"
+               "album": "Self",
+               "url": "https://open.spotify.com/track/3NgAAoUZPkxL5mpvUI7Rl5?si=3ec2ab46068c4699"
             },
             {
                "name": "Eating Glue",
                "artist": "Paranoid London, Mutado Pintado",
-               "album": "Paranoid London"
+               "album": "Paranoid London",
+               "url": "https://open.spotify.com/track/1f6yIgCDhZeMtFDvOzQIVl?si=45f161d6f4434ed3"
             },
             {
                "name": "Verlust",
                "artist": "Computer Data",
-               "album": "Verlust"
+               "album": "Verlust",
+               "url": "https://open.spotify.com/track/2pbXAsXPXuNnsmVYyHGALz?si=8bbb822abb8e4ab1"
+
             }
          ],
          "created_at": ""
@@ -50,19 +57,23 @@
          "description": "Greening out, and over",
          "tracks": [
             {
-               "name": "Parachute",
-               "artist": "Paul Kalkbrenner",
-               "album": "Self"
+               "name": "Running",
+               "artist": "Gil Scott-Heron, Jamie xx",
+               "album": "We're New Here",
+               "url": "https://open.spotify.com/track/7xPldYgAV4W8L4AOsq6XJG?si=7d578bfa7d544d71"
             },
             {
-               "name": "Eating Glue",
-               "artist": "Paranoid London, Mutado Pintado",
-               "album": "Paranoid London"
+               "name": "You",
+               "artist": "Mall Grab, Flansie",
+               "album": "You",
+               "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk?si=aba9c28fe90d44bb"
             },
             {
-               "name": "Verlust",
-               "artist": "Computer Data",
-               "album": "Verlust"
+               "name": "Blade Runner",
+               "artist": "Autotune",
+               "album": "Blade Runner",
+               "url": "https://open.spotify.com/track/1BtRNAJPmXZPoe5Yb92DGC?si=3cb695be94d742ce"
+
             }
          ],
          "created_at": ""
@@ -74,20 +85,51 @@
             {
                "name": "Krunk",
                "artist": "Sad Night Dynamite",
-               "album": "Sad Night Dynamite"
+               "album": "Sad Night Dynamite",
+               "url":"https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7?si=1fe3cd62d2f14c72"
             },
             {
                "name": "4 Floors of Whores",
                "artist": "Tzusing",
-               "album": "A Name out of Place Pt. II"
+               "album": "A Name out of Place Pt. II",
+               "url": "https://open.spotify.com/track/4HE5Qo7KUrmPOmNkvhvTJt?si=9a5f139e6a8543a3"
+
             },
             {
-               "name": "Drum Drum",
-               "artist": "Jordon Alexander",
-               "album": "Ohana"
+               "name": "elvis has left the building",
+               "artist": "Vladimir Dubyshkin",
+               "album": "Budni Nashego Kolhoza",
+               "url": "https://open.spotify.com/track/29vPpigO5ed2hZ9nQ2O3GB?si=80e03900dca74c8e"
             }
          ],
          "created_at": ""
-        }
+        },
+        {
+         "name": "Purple",
+         "description": "a purple still",
+         "tracks": [
+            {
+               "name": "Where Is My Mind?",
+               "artist": "Pixies",
+               "album": "Surfa Rosa(Remastered)",
+               "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1?si=8ec78fa933cf439d"
+            },
+            {
+               "name": "Shadow(Maceo Plex Remix)",
+               "artist": "Maceo Plex, Chromatics",
+               "album": "Shadow (Remixes)",
+               "url": "https://open.spotify.com/track/5BAJDNTutBFJL27pKunac1?si=5bec9b53aa464c74"
+            },
+            {
+               "name": "Curiosa",
+               "artist": "Arnaud Rebotini",
+               "album": "Curiosa (Bande originale du film)",
+               "url": "https://open.spotify.com/track/08sABdyACgEjOIAJg5aqCw?si=deaecc29b3fe411b"
+            }
+         ],
+         "created_at": ""
+      }
+     
+
    ]
 }

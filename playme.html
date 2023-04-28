@@ -4,16 +4,23 @@
 <head>
     <title>My Playlists</title>
     <style>
+
+      html, body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        min-height: 100vh;
+        margin: 10px;
+      }
        
        
       .grid-container {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(4, 1fr);
-        gap: 20px;
-        justify-content: center;
-        align-items: center;
-        margin-right: 100;
+        width: 75%;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;        
       }
       .playlist-box {
         width: 200px;
@@ -26,62 +33,11 @@
         align-items: center;
         cursor: pointer;
       }
-      .playlist-box:hover {
-        background-color: #f8f8f8;
-      }
-
-        .playlist-box:nth-child(1) {
-            background-color: #42bb52ff;
-            /* Playlist 1 */
-        }
-
-        .playlist-box:nth-child(2) {
-            background-color: #9b04eaff;
-            /* Playlist 2 */
-        }
-
-        .playlist-box:nth-child(3) {
-            background-color: #fa9b15ff;
-            /* Playlist 3 */
-        }
-
-        .playlist-box:nth-child(4) {
-            background-color: white;
-            /* Playlist 4 */
-        }
-
-        .playlist-box:nth-child(5) {
-            background-color: black;
-            /* Playlist 5 */
-        }
-
-        .playlist-box:nth-child(6) {
-            background-color: #d01e17ff;
-            /* Playlist 6 */
-        }
-
-        .playlist-box:nth-child(7) {
-            background-color: #f5e02dff;
-            /* Playlist 7 */
-        }
-
-        .playlist-box:nth-child(8) {
-            background-color: #0a52efff;
-            /* Playlist 8 */
-        }
     </style>
 </head>
 
 <body>
-    <div class="grid-container">
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
-        <div class="playlist-box"></div>
+    <div id="container" class="grid-container">
 
     </div>
     <script src="script.js"></script>
